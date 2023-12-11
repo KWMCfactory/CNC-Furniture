@@ -76,7 +76,7 @@ elif finish_select_str == "Rubio monocoat" :
     coat_multiplier = 1
     coat_coverage = 20
 elif finish_select_str == "Osmo UV protect" :
-    finish_cost = 4.04
+    finish_cost = 5.20
     coat_multiplier = 2
     coat_coverage = 9
 elif finish_select_str == "Exterior paint" :
